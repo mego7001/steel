@@ -1,0 +1,6 @@
+{
+  "name": "Metal Works Engineering Consultant (MWEC)",
+  "description": "منصة استشاري وهندسة وتصنيع الإنشاءات والجمالونات المعدنية، التحليل الإنشائي، تفاصيل الوصلات، قوائم القص والماكينات والتكلفة وضبط الجودة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
